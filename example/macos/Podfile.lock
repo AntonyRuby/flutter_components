@@ -1,0 +1,30 @@
+PODS:
+  - flutter_components (0.0.1):
+    - FlutterMacOS
+  - FlutterMacOS (1.0.0)
+
+DEPENDENCIES:
+  - flutter_components (from `Flutter/ephemeral/.symlinks/plugins/flutter_components/macos`)
+  - FlutterMacOS (from `Flutter/ephemeral`)
+
+EXTERNAL SOURCES:
+  flutter_components:
+    :path: Flutter/ephemeral/.symlinks/plugins/flutter_components/macos
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+
+SPEC CHECKSUMS:
+  flutter_components: 251c45193a721486514c9e25561d8870cf572f81
+<<<<<<< HEAD
+  FlutterMacOS: 57701585bf7de1b3fc2bb61f6378d73bbdea8424
+
+PODFILE CHECKSUM: 6eac6b3292e5142cfc23bdeb71848a40ec51c14c
+
+COCOAPODS: 1.11.2
+=======
+  FlutterMacOS: ae6af50a8ea7d6103d888583d46bd8328a7e9811
+
+PODFILE CHECKSUM: 6eac6b3292e5142cfc23bdeb71848a40ec51c14c
+
+COCOAPODS: 1.11.3
+>>>>>>> eebdd83252333e5dae75fefe1488afdf64fd59ad
